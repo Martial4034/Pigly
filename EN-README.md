@@ -2,6 +2,9 @@
 
 ### [French version of README.md](https://github.com/Martial4034/Pigly/blob/main/README.md)
 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+
 At 17, I collaborated with [Paul Mazeau](https://www.paulmazeau.com/) to develop **Pigly**, an app that in just 37 seconds, finds a restaurant, bar, or club based on your current mood, location, and preferences. This app was designed to resolve the age-old question: "Where should we eat?" However, this project is now **deprecated**.
 
 ## The Project
