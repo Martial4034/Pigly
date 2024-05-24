@@ -6,7 +6,9 @@
 
 À 17 ans, 
    en collaboration avec [Paul Mazeau](https://www.paulmazeau.com/), j'ai participé à la création de **Pigly**, une application qui détermine en 37 secondes un restaurant, un bar ou un club à visiter selon votre humeur / position / gouts ... actuelle. 
-Cette application visait à résoudre le dilemme éternel : « Où devrions-nous manger ? » Toutefois, ce projet est maintenant **obsolète**.
+Cette application visait à résoudre le dilemme éternel :
+   « Où devrions-nous manger ? » 
+Toutefois, ce projet est maintenant **obsolète**.
 
 ## Le Projet
 L'idée derrière Pigly était de simplifier le processus de recherche d'un lieu correspondant à vos envies et votre humeur du moment. L'application a été conçue pour offrir des solutions rapides et pertinentes pour les options de restauration locale, éliminant l'indécision souvent associée au choix d'un lieu pour manger.
