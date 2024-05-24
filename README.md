@@ -2,7 +2,10 @@
 
 ### [English version of EN-README.md](https://github.com/Martial4034/Pigly/blob/main/EN-README.md)
 
-À 17 ans, en collaboration avec [Paul Mazeau](https://www.paulmazeau.com/), j'ai participé à la création de **Pigly**, une application qui détermine en 37 secondes un restaurant, un bar ou un club à visiter selon votre humeur / position / gouts ... actuelle. 
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+À 17 ans, 
+   en collaboration avec [Paul Mazeau](https://www.paulmazeau.com/), j'ai participé à la création de **Pigly**, une application qui détermine en 37 secondes un restaurant, un bar ou un club à visiter selon votre humeur / position / gouts ... actuelle. 
 Cette application visait à résoudre le dilemme éternel : « Où devrions-nous manger ? » Toutefois, ce projet est maintenant **obsolète**.
 
 ## Le Projet
