@@ -10,7 +10,9 @@ At 17, I collaborated with [Paul Mazeau](https://www.paulmazeau.com/) to develop
 ## The Project
 Pigly was conceived to simplify the process of finding a place that matches your current desires and mood. The application was designed to provide quick and relevant solutions for local dining options, thus eliminating the indecision often associated with choosing a place to eat.
 
-![Survey Image](https://github.com/Martial4034/Pigly/blob/main/assets/preview2.png)  
+
+![Image Sondage](https://github.com/Martial4034/Pigly/blob/main/assets/preview2.png)
+
 *Survey results confirming the need for our application*
 
 ## User Experience Design
