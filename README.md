@@ -13,7 +13,6 @@ Toutefois, ce projet est maintenant **obsolète**.
 ## Le Projet
 L'idée derrière Pigly était de simplifier le processus de recherche d'un lieu correspondant à vos envies et votre humeur du moment. L'application a été conçue pour offrir des solutions rapides et pertinentes pour les options de restauration locale, éliminant l'indécision souvent associée au choix d'un lieu pour manger.
 
-![Image des Sondages](https://github.com/Martial4034/Pigly/blob/main/assets/preview6.jpeg)  
 *Résultats des sondages confirmant le besoin de notre application*
 
 ## Conception de l'Expérience Utilisateur
@@ -30,6 +29,7 @@ La phase initiale impliquait une recherche approfondie sur les utilisateurs, où
    - À l'aise avec la technologie, utilise principalement son smartphone pour des tâches utilitaires.
    - Objectif : Localiser rapidement un restaurant capable de répondre à ses exigences diététiques, à sa localisation et à ses contraintes de temps.
 ### User Flow Experience
+![Image des Sondages](https://github.com/Martial4034/Pigly/blob/main/assets/preview6.jpeg)  
 ![Esquisse de Paul](https://raw.githubusercontent.com/Martial4034/Pigly/main/assets/preview3.webp)
 *User flow par Paul, axée sur l'expérience utilisateur*
 
