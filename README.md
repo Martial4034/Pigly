@@ -1,6 +1,6 @@
 # Pigly
 
-### [English version of EN-README.md]()
+### [English version of EN-README.md](https://github.com/Martial4034/Pigly/blob/main/EN-README.md)
 
 À 17 ans, en collaboration avec [Paul Mazeau](https://www.paulmazeau.com/), j'ai participé à la création de **Pigly**, une application qui détermine en 37 secondes un restaurant, un bar ou un club à visiter selon votre humeur / position / gouts ... actuelle. 
 Cette application visait à résoudre le dilemme éternel : « Où devrions-nous manger ? » Toutefois, ce projet est maintenant **obsolète**.
@@ -44,7 +44,7 @@ J'ai réalisé des maquettes de basse fidélité qui ont établi la structure de
 ## Développement Technique
 Après la finalisation du design, j'ai commencé la phase de développement. La pile technologique a été choisie en fonction de mon expérience précédente avec MyColoc : React Native avec Expo et Firebase, idéal pour déployer rapidement une application évolutive adaptée aux plateformes Android et Apple.
 
-![Rendu du Développement](https://raw.githubusercontent.com/Martial4034/Pigly/main/assets/preview1.webp)
+![Rendu du Développement](https://raw.githubusercontent.com/Martial4034/Pigly/main/assets/preview1.png)
 *Rendu quasi final du développement de l'application*
 
 ## Conclusion
